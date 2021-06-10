@@ -9,6 +9,6 @@ Contact me: niksislai@gmail.com | https://www.linkedin.com/in/niklavs-laicans/
   <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" width="50">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="45">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="52">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width="150">
+  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png" width="150">
   <img src="" width="50">
 </p>
