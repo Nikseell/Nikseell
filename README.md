@@ -3,4 +3,4 @@
 I'm a .NET/C# software engineer. I am always open to new opportunities, strive for new knowledge, and want to develop myself.
 
 Contact me: niksislai@gmail.com | https://www.linkedin.com/in/niklavs-laicans/
-!(https://iconape.com/wp-content/files/rr/352323/png/c-sharp-c-logo.png)
+![](https://iconape.com/wp-content/files/rr/352323/png/c-sharp-c-logo.png)
