@@ -7,7 +7,7 @@ Contact me: niksislai@gmail.com | https://www.linkedin.com/in/niklavs-laicans/
 <p align="left">
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50">
   <img src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" width="50">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="40">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="47">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="50">
   <img src="" width="50">
   <img src="" width="50">
