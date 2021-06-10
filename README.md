@@ -1,3 +1,5 @@
-I have always found programming very exciting. The idea that few lines of written text can be used to create unique functionality or program. Our entire lives, we use these programs never thinking about how they are made. I like the process of innovating new programs, finding the necessary information, resolving problems, and coming up with solutions. Therefore I have decided to start learning to code and become a specialist myself.
+## Hi 👋 ,my name is Niklāvs Laicāns!
 
-Currently, I am learning C# programming language and I am always open to new opportunities, strive for new knowledge, and want to develop myself. Overall I am very responsible, curious and able to adapt quickly to new situations.
+I'm a .NET/C# software engineer. I am always open to new opportunities, strive for new knowledge, and want to develop myself.
+
+Contact me: niksislai@gmail.com | https://www.linkedin.com/in/niklavs-laicans/
