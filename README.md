@@ -3,8 +3,6 @@
 I'm a .NET/C# software engineer. I am always open to new opportunities, strive for new knowledge, and want to develop myself.
 
 Contact me: niksislai@gmail.com | https://www.linkedin.com/in/niklavs-laicans/
-<br>
-![](https://komarev.com/ghpvc/?username=nikseell&color=lightgray)
 <hr>
 
 ## Languages and Tools:
