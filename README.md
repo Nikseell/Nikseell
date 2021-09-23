@@ -14,3 +14,4 @@ Contact me: niksislai@gmail.com | https://www.linkedin.com/in/niklavs-laicans/
   <a href="https://www.w3schools.com/html/"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="52"></a>
   <a href="https://unity.com/"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png" width="50"></a>
 </p>
+![](https://komarev.com/ghpvc/?username=nikseell&color=blue)
