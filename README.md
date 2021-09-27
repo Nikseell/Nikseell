@@ -1,5 +1,4 @@
 ## Hi 👋 ,my name is Niklāvs Laicāns!
-![](https://komarev.com/ghpvc/?username=nikseell&color=blue)
 
 I'm a .NET/C# software engineer. I am always open to new opportunities, strive for new knowledge, and want to develop myself.
 
