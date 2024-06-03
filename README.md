@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">[ Passionate Unity & C# developer, eager for new opportunities ]</h6>
+<h5 align="left">[ Passionate Unity & C# developer, eager for new opportunities ]</h5>
 
 ###
 
